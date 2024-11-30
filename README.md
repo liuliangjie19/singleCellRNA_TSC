@@ -1,5 +1,5 @@
 # singleCellRNA_TSC
-the R code of single cell RNA data analysis for 4 TSC samples
+the R code of single nucleus RNA data analysis for 4 TSC samples
 
 Single nucleus RNA-sequencing (snRNA-seq)
 Single-nucleus RNA-seq was conducted on cortical specimens surgically resected from both non-TSC control and TSC patient, including regions designated as TSC-tuber, TSC-edge (the edge of the tuber), and TSC-outside (outside the tuber). Nuclei isolation from frozen brain tissues was conducted by Azenta (South Plainfield, NJ, USA). Nuclei extraction was carried out using the Miltenyi Nuclei Extraction Buffer (Miltenyi Biotec, Auburn, CA, USA) according to the manufacturer’s guidelines, utilizing gentle MACS Dissociation and C tubes. After isolation, the nuclei were counted using the Nexcelom Cellaca MX. 3’ RNA library preparation and sequencing were performed by generating single nuclei RNA libraries using the Single Cell Multiome ATAC + Gene Expression kit (10X Genomics, CA, USA). Loading onto the Chromium instrument was conducted to target a capture of approximately 10,000 cells per sample for downstream analysis, following the standard specifications provided by the manufacturer.
